@@ -4,7 +4,7 @@ const Guest = () => {
   return (
     <div className="guest">
       <h1>Welcome</h1>
-      <p>Please sing in to manage your transactions</p>
+      <p>Please sign in to manage your transactions</p>
       <SignInButton />
     </div>
   );
